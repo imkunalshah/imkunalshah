@@ -12,6 +12,8 @@
 
 :octocat: I have a soft spot for technology and communities :octocat:! 
 
+🌐 My portfolio [**website**](http://bit.ly/kunal-portfolio)
+
 👩‍💻 Nowadays, I’m learning iOS and Blockchain. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions! 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
@@ -32,7 +34,7 @@
   ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-FFFFFF?style=flat&logo=vue.js)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=fea618)
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=fd6c35)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb&logoColor=429e39)
 - ☁️ &nbsp;
   ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FFFFFF?style=flat&logo=amazon&logoColor=fd6c35)
