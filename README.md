@@ -1,27 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kunal Shah</h1>
-<h3 align="center">A passionate mobile app developer from 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imkunalshah&label=Profile%20views&color=0e75b6&style=flat" alt="imkunalshah" /> </p>
+<h1 align="center">Hey, I'm Kunal Shah <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Changing the world one pixel at a time!</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imkunalshah" alt="imkunalshah" /></a> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-- 👨‍💻 All of my projects are available at [http://bit.ly/kunal-portfolio](http://bit.ly/kunal-portfolio)
+   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+   
+   ## :wave: About Me 
+<a href="https://twitter.com/kshah_kunal" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="http://bit.ly/kunal-linkedin" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+👩‍🎓 Hey! I'm Kunal, a 22 year old software engineer at [**Freelancer**](https://github.com/freelancer) working out of Remote, India. 
 
-- 📫 How to reach me **kunal.jack.shah@gmail.com**
+:octocat: I have a soft spot for technology and communities :octocat:! 
 
-- 📄 Know about my experiences [http://bit.ly/kunals-resume](http://bit.ly/kunals-resume)
+👩‍💻 Nowadays, I’m learning iOS and Blockchain. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions! 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/kunal_jack_shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal_jack_shah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/imkunalshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imkunalshah" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@kshah26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kshah26" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kunaljackshah/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunaljackshah/profile" height="30" width="40" /></a>
-</p>
+⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imkunalshah&show_icons=true&locale=en&layout=compact" alt="imkunalshah" /></p>
+## 🛠 &nbsp;Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imkunalshah&show_icons=true&locale=en" alt="imkunalshah" /></p>
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-FFFFFF?style=flat&logo=java&logoColor=8B0000)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin&logoColor=%20a435f6)
+- 🌐 &nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-FFFFFF?style=flat&logo=html5&logoColor=e44d27)
+  ![CSS](https://img.shields.io/badge/-CSS-FFFFFF?style=flat&logo=css3&logoColor=2f82c5)
+  ![JavaScript](https://img.shields.io/badge/-Javascript-FFFFFF?style=flat&logo=javascript&logoColor=f7df1e)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react)
+  ![Vue](https://img.shields.io/badge/-Vue-FFFFFF?style=flat&logo=vue.js)
+- 🛢 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-FFFFFF?style=flat&logo=mysql&logoColor=fea618)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat&logo=mongodb&logoColor=429e39)
+- ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-FFFFFF?style=flat&logo=amazon&logoColor=fd6c35)
+  ![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-FFFFFF?style=flat&logo=google-cloud&logoColor=fbbd01)
+  ![Heroku](https://img.shields.io/badge/-Heroku-FFFFFF?style=flat&logo=heroku&logoColor=430099)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-FFFFFF?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=flat&logo=github&logoColor=000000)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-FFFFFF?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio]( https://img.shields.io/badge/-Android%20Studio-FFFFFF?style=flat&logo=android-studio&logoColor=4286f4) 
+  ![IntelliJ Idea]( https://img.shields.io/badge/-IntelliJ%20Idea-FFFFFF?style=flat&logo=intellij-idea&logoColor=107cf3)
+  ![Postman]( https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=fd6c35)
+<br/>
+
+  [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
+   <br />
+   <br />
+   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imkunalshah&theme=prussian&hide_border=true)](https://git.io/streak-stats)
+   <br />
+   <br />
