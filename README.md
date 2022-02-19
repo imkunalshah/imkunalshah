@@ -1,20 +1,20 @@
 
-<h1 align="center">Hey, I'm Kunal Shah <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">Changing the world one pixel at a time!</h2>
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<h1 align="center">Hello, I'm Kunal Shah <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Converting ideas into real world applications 📱 </h2>
+<!-- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
    
    ## :wave: About Me 
 <a href="https://twitter.com/kshah_kunal" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="http://bit.ly/kunal-linkedin" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Kunal, a 22 year old software engineer at [**Freelancer**](https://github.com/freelancer) working out of Remote, India. 
+👨‍🎓 Hey! I'm Kunal, a 22 year old software engineer(android) currently working at [**Pratilipi**](https://github.com/freelancer), Bangalore, India. 
 
 :octocat: I have a soft spot for technology and communities :octocat:! 
 
 🌐 My portfolio [**website**](http://bit.ly/kunal-portfolio)
 
-👩‍💻 Nowadays, I’m learning iOS and Blockchain. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions! 
+🧑‍💻 Nowadays, I’m learning iOS and Blockchain development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions! 
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
@@ -50,9 +50,9 @@
   ![Postman]( https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=fd6c35)
 <br/>
 
-  [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
+<!--   [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imkunalshah&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
-   <br />
+   <br /> -->
