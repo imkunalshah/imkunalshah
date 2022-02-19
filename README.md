@@ -50,9 +50,9 @@
   ![Postman]( https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=fd6c35)
 <br/>
 
-<!--   [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
+   [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
    <br />
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imkunalshah&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
-   <br /> -->
+   <br />
