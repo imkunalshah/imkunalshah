@@ -8,7 +8,7 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/kshah_kunal" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="http://bit.ly/kunal-linkedin" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Kunal, a 22 year old software engineer(android) currently working at [**CricBuzz(Times Internet)**](https://cricbuzz.com/), Bangalore, India. 
+👨‍🎓 Hey! I'm Kunal, a software engineer(android) currently working at [**Rooter.gg**](https://play.google.com/store/apps/details?id=com.threesixteen.app). 
 
 :octocat: I have a soft spot for technology and communities :octocat:! 
 
@@ -50,9 +50,9 @@
   ![Postman]( https://img.shields.io/badge/-Postman-FFFFFF?style=flat&logo=postman&logoColor=fd6c35)
 <br/>
 
-   [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
+<!--    [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=imkunalshah&theme=xcode)](https://git.io/imkunalshah)
    <br />
-   <br />
+   <br /> -->
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imkunalshah&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
    <br />
