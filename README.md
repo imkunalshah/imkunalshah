@@ -8,7 +8,7 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/kshah_kunal" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="http://bit.ly/kunal-linkedin" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👨‍🎓 Hey! I'm Kunal, a software engineer(android) currently working at [**Razorpay**](https://razorpay.com/). 
+👨‍🎓 Hey! I'm Kunal, a software engineer (android) currently working at [**BlinkIt(Zomato)**](https://play.google.com/store/apps/details?id=com.grofers.customerapp). 
 
 :octocat: I have a soft spot for technology and communities :octocat:! 
 
