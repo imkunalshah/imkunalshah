@@ -4,18 +4,18 @@
 <!-- <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> -->
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+ <!--   [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/) -->
    
    ## :wave: About Me 
-<!-- <a href="https://twitter.com/kshah_kunal" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
-<a href="http://bit.ly/kunal-linkedin" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<a href="https://x.com/kshah_kunal" target="_blank"><img src="https://img.magnific.com/free-vector/new-2023-twitter-x-logo-black-background_1017-45423.jpg" height="120px" width="120px" alt="X" align="right"></a>
+<a href="https://www.linkedin.com/in/imkunalshah" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Linkedin" align="right"></a>
 👨‍🎓 Hey! I'm Kunal, a software engineer (android) currently working at [**BlinkIt(Zomato)**](https://play.google.com/store/apps/details?id=com.grofers.customerapp). 
 
 :octocat: I have a soft spot for technology and communities :octocat:! 
 
 🌐 My portfolio [**website**](http://bit.ly/kunal-portfolio)
 
-🧑‍💻 Nowadays, I’m learning iOS and Blockchain development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions! 
+<!-- 🧑‍💻 Nowadays, I’m learning iOS and Blockchain development. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/imkunalshah/) and always up for quick coding brainstorming sessions!  -->
 
 ⚡ Fun fact: I have a Computer Engineering background, but most of the credit goes to Google and Stack Overflow 😪
 
